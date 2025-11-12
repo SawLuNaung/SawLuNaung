@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas (Saw Lu Naung)
 
-<!--
-**SawLuNaung/SawLuNaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Aspiring Business Information Technology Specialist**  
+💻 Passionate about web development, backend systems, and data-driven solutions  
+📍 Based in Thailand | 🇨🇦 Preparing for studies at Seneca College (Jan 2026)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Do
+- 🌱 Currently learning **React**, **Django**, and **REST API Development**
+- 🧠 Exploring **full-stack development** with a focus on real-world projects
+- 📊 Building an **Expense Tracker App** as a personal project
+
+---
+
+### 🧰 Tech Stack
+**Frontend:** React, HTML, CSS, JavaScript  
+**Backend:** Django, Python  
+**Database:** PostgreSQL, SQLite  
+**Tools:** Git, VS Code, Figma  
+
+---
+
+### 🚀 Featured Projects
+- 🧾 [Expense Tracker (React + Django)](https://github.com/SawLuNaung/expense-tracker) – A full-stack budgeting app  
+- ⚙️ [Kicks-Clippers](https://github.com/SawLuNaung/Kicks-Clippers) – JavaScript-based sneaker project
+
+---
+
+### 📫 How to Reach Me
+- 📧 [sawlunaung29@gmail.com](mailto:sawlunaung29@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saw-lu-naung-1365a9223/)
+
+---
+
+⭐ **Fun Fact:** I love exploring UI design ideas and making tech easy to use.
+
