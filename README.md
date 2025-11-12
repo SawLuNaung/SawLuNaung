@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas (Saw Lu Naung)
+# 👋 Hi, I'm Saw Lu Naung (Lucas)
 
 🎓 **Aspiring Business Information Technology Specialist**  
 💻 Passionate about web development, backend systems, and data-driven solutions  
