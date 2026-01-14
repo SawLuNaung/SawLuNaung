@@ -6,13 +6,6 @@
 
 ---
 
-### 💼 What I Do
-- 🌱 Currently learning **React**, **Django**, and **REST API Development**
-- 🧠 Exploring **full-stack development** with a focus on real-world projects
-- 📊 Building an **Expense Tracker App** as a personal project
-
----
-
 ### 🧰 Tech Stack
 **Frontend:** React, HTML, CSS, JavaScript  
 **Backend:** Django, Python  
