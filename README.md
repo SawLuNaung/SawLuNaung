@@ -2,7 +2,7 @@
 
 🎓 **Aspiring Business Information Technology Specialist**  
 💻 Passionate about web development, backend systems, and data-driven solutions  
-📍 Based in Thailand | 🇨🇦 Preparing for studies at Seneca College (Jan 2026)
+📍 Based in Thailand | 
 
 ---
 
