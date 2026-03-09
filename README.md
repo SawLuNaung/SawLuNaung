@@ -8,15 +8,9 @@
 
 ### 🧰 Tech Stack
 **Frontend:** React, HTML, CSS, JavaScript  
-**Backend:** Django, Python  
+**Backend:** Node, Express  
 **Database:** PostgreSQL, SQLite  
 **Tools:** Git, VS Code, Figma  
-
----
-
-### 🚀 Featured Projects
-- 🧾 [Expense Tracker (React + Django)](https://github.com/SawLuNaung/expense-tracker) – A full-stack budgeting app  
-- ⚙️ [Kicks-Clippers](https://github.com/SawLuNaung/Kicks-Clippers) – JavaScript-based sneaker project
 
 ---
 
